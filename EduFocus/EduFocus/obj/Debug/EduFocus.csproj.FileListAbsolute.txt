@@ -1,0 +1,142 @@
+C:\Users\Luís Fernando\Desktop\trab\EduFocus\EduFocus\obj\Debug\EduFocus.csprojAssemblyReference.cache
+C:\Users\Luís Fernando\Desktop\trab\EduFocus\EduFocus\obj\Debug\EduFocus.frmCadastro.resources
+C:\Users\Luís Fernando\Desktop\trab\EduFocus\EduFocus\obj\Debug\EduFocus.frmLogin.resources
+C:\Users\Luís Fernando\Desktop\trab\EduFocus\EduFocus\obj\Debug\EduFocus.frmMenu.resources
+C:\Users\Luís Fernando\Desktop\trab\EduFocus\EduFocus\obj\Debug\EduFocus.frmSplash.resources
+C:\Users\Luís Fernando\Desktop\trab\EduFocus\EduFocus\obj\Debug\EduFocus.Properties.Resources.resources
+C:\Users\Luís Fernando\Desktop\trab\EduFocus\EduFocus\obj\Debug\EduFocus.csproj.GenerateResource.cache
+C:\Users\Luís Fernando\Desktop\trab\EduFocus\EduFocus\bin\Debug\EduFocus.exe.config
+C:\Users\Luís Fernando\Desktop\trab\EduFocus\EduFocus\bin\Debug\EduFocus.exe
+C:\Users\Luís Fernando\Desktop\trab\EduFocus\EduFocus\bin\Debug\EduFocus.pdb
+C:\Users\Luís Fernando\Desktop\trab\EduFocus\EduFocus\obj\Debug\EduFocus.exe
+C:\Users\Luís Fernando\Desktop\trab\EduFocus\EduFocus\obj\Debug\EduFocus.pdb
+C:\Users\Luís Fernando\Desktop\trab\EduFocus\EduFocus\obj\Debug\EduFocus.frmEsqSenha.resources
+C:\Users\Luís Fernando\Desktop\trab\EduFocus\EduFocus\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Luís Fernando\Desktop\trab\EduFocus\EduFocus\bin\Debug\Npgsql.dll
+C:\Users\Luís Fernando\Desktop\trab\EduFocus\EduFocus\bin\Debug\System.Buffers.dll
+C:\Users\Luís Fernando\Desktop\trab\EduFocus\EduFocus\bin\Debug\System.Memory.dll
+C:\Users\Luís Fernando\Desktop\trab\EduFocus\EduFocus\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Luís Fernando\Desktop\trab\EduFocus\EduFocus\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Luís Fernando\Desktop\trab\EduFocus\EduFocus\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Luís Fernando\Desktop\trab\EduFocus\EduFocus\bin\Debug\System.Text.Json.dll
+C:\Users\Luís Fernando\Desktop\trab\EduFocus\EduFocus\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Luís Fernando\Desktop\trab\EduFocus\EduFocus\bin\Debug\System.ValueTuple.dll
+C:\Users\Luís Fernando\Desktop\trab\EduFocus\EduFocus\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Luís Fernando\Desktop\trab\EduFocus\EduFocus\bin\Debug\Npgsql.pdb
+C:\Users\Luís Fernando\Desktop\trab\EduFocus\EduFocus\bin\Debug\Npgsql.xml
+C:\Users\Luís Fernando\Desktop\trab\EduFocus\EduFocus\bin\Debug\System.Buffers.xml
+C:\Users\Luís Fernando\Desktop\trab\EduFocus\EduFocus\bin\Debug\System.Memory.xml
+C:\Users\Luís Fernando\Desktop\trab\EduFocus\EduFocus\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Luís Fernando\Desktop\trab\EduFocus\EduFocus\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Luís Fernando\Desktop\trab\EduFocus\EduFocus\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Luís Fernando\Desktop\trab\EduFocus\EduFocus\bin\Debug\System.Text.Json.xml
+C:\Users\Luís Fernando\Desktop\trab\EduFocus\EduFocus\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Luís Fernando\Desktop\trab\EduFocus\EduFocus\bin\Debug\System.ValueTuple.xml
+C:\Users\Luís Fernando\Desktop\trab\EduFocus\EduFocus\obj\Debug\EduFocus.csproj.CopyComplete
+C:\Users\Luís Fernando\Desktop\Trab C# 3º_4º\EduFocus\EduFocus\bin\Debug\EduFocus.exe.config
+C:\Users\Luís Fernando\Desktop\Trab C# 3º_4º\EduFocus\EduFocus\bin\Debug\EduFocus.exe
+C:\Users\Luís Fernando\Desktop\Trab C# 3º_4º\EduFocus\EduFocus\bin\Debug\EduFocus.pdb
+C:\Users\Luís Fernando\Desktop\Trab C# 3º_4º\EduFocus\EduFocus\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Luís Fernando\Desktop\Trab C# 3º_4º\EduFocus\EduFocus\bin\Debug\Npgsql.dll
+C:\Users\Luís Fernando\Desktop\Trab C# 3º_4º\EduFocus\EduFocus\bin\Debug\System.Buffers.dll
+C:\Users\Luís Fernando\Desktop\Trab C# 3º_4º\EduFocus\EduFocus\bin\Debug\System.Memory.dll
+C:\Users\Luís Fernando\Desktop\Trab C# 3º_4º\EduFocus\EduFocus\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Luís Fernando\Desktop\Trab C# 3º_4º\EduFocus\EduFocus\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Luís Fernando\Desktop\Trab C# 3º_4º\EduFocus\EduFocus\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Luís Fernando\Desktop\Trab C# 3º_4º\EduFocus\EduFocus\bin\Debug\System.Text.Json.dll
+C:\Users\Luís Fernando\Desktop\Trab C# 3º_4º\EduFocus\EduFocus\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Luís Fernando\Desktop\Trab C# 3º_4º\EduFocus\EduFocus\bin\Debug\System.ValueTuple.dll
+C:\Users\Luís Fernando\Desktop\Trab C# 3º_4º\EduFocus\EduFocus\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Luís Fernando\Desktop\Trab C# 3º_4º\EduFocus\EduFocus\bin\Debug\Npgsql.pdb
+C:\Users\Luís Fernando\Desktop\Trab C# 3º_4º\EduFocus\EduFocus\bin\Debug\Npgsql.xml
+C:\Users\Luís Fernando\Desktop\Trab C# 3º_4º\EduFocus\EduFocus\bin\Debug\System.Buffers.xml
+C:\Users\Luís Fernando\Desktop\Trab C# 3º_4º\EduFocus\EduFocus\bin\Debug\System.Memory.xml
+C:\Users\Luís Fernando\Desktop\Trab C# 3º_4º\EduFocus\EduFocus\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Luís Fernando\Desktop\Trab C# 3º_4º\EduFocus\EduFocus\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Luís Fernando\Desktop\Trab C# 3º_4º\EduFocus\EduFocus\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Luís Fernando\Desktop\Trab C# 3º_4º\EduFocus\EduFocus\bin\Debug\System.Text.Json.xml
+C:\Users\Luís Fernando\Desktop\Trab C# 3º_4º\EduFocus\EduFocus\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Luís Fernando\Desktop\Trab C# 3º_4º\EduFocus\EduFocus\bin\Debug\System.ValueTuple.xml
+C:\Users\Luís Fernando\Desktop\Trab C# 3º_4º\EduFocus\EduFocus\obj\Debug\EduFocus.csprojAssemblyReference.cache
+C:\Users\Luís Fernando\Desktop\Trab C# 3º_4º\EduFocus\EduFocus\obj\Debug\EduFocus.frmCadastro.resources
+C:\Users\Luís Fernando\Desktop\Trab C# 3º_4º\EduFocus\EduFocus\obj\Debug\EduFocus.frmLogin.resources
+C:\Users\Luís Fernando\Desktop\Trab C# 3º_4º\EduFocus\EduFocus\obj\Debug\EduFocus.frmMenu.resources
+C:\Users\Luís Fernando\Desktop\Trab C# 3º_4º\EduFocus\EduFocus\obj\Debug\EduFocus.frmSplash.resources
+C:\Users\Luís Fernando\Desktop\Trab C# 3º_4º\EduFocus\EduFocus\obj\Debug\EduFocus.Properties.Resources.resources
+C:\Users\Luís Fernando\Desktop\Trab C# 3º_4º\EduFocus\EduFocus\obj\Debug\EduFocus.csproj.GenerateResource.cache
+C:\Users\Luís Fernando\Desktop\Trab C# 3º_4º\EduFocus\EduFocus\obj\Debug\EduFocus.csproj.CopyComplete
+C:\Users\Luís Fernando\Desktop\Trab C# 3º_4º\EduFocus\EduFocus\obj\Debug\EduFocus.exe
+C:\Users\Luís Fernando\Desktop\Trab C# 3º_4º\EduFocus\EduFocus\obj\Debug\EduFocus.pdb
+C:\Users\Luís Fernando\Desktop\Trab C# 3º_4º\EduFocus\EduFocus\obj\Debug\EduFocus.frmPerfil.resources
+C:\Users\Luis\Documents\CTI\2º ANO\Curso Técnico-2º ANO\C#\Trab C# 3º_4º\EduFocus\EduFocus\bin\Debug\EduFocus.exe.config
+C:\Users\Luis\Documents\CTI\2º ANO\Curso Técnico-2º ANO\C#\Trab C# 3º_4º\EduFocus\EduFocus\bin\Debug\EduFocus.exe
+C:\Users\Luis\Documents\CTI\2º ANO\Curso Técnico-2º ANO\C#\Trab C# 3º_4º\EduFocus\EduFocus\bin\Debug\EduFocus.pdb
+C:\Users\Luis\Documents\CTI\2º ANO\Curso Técnico-2º ANO\C#\Trab C# 3º_4º\EduFocus\EduFocus\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Luis\Documents\CTI\2º ANO\Curso Técnico-2º ANO\C#\Trab C# 3º_4º\EduFocus\EduFocus\bin\Debug\Npgsql.dll
+C:\Users\Luis\Documents\CTI\2º ANO\Curso Técnico-2º ANO\C#\Trab C# 3º_4º\EduFocus\EduFocus\bin\Debug\System.Buffers.dll
+C:\Users\Luis\Documents\CTI\2º ANO\Curso Técnico-2º ANO\C#\Trab C# 3º_4º\EduFocus\EduFocus\bin\Debug\System.Memory.dll
+C:\Users\Luis\Documents\CTI\2º ANO\Curso Técnico-2º ANO\C#\Trab C# 3º_4º\EduFocus\EduFocus\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Luis\Documents\CTI\2º ANO\Curso Técnico-2º ANO\C#\Trab C# 3º_4º\EduFocus\EduFocus\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Luis\Documents\CTI\2º ANO\Curso Técnico-2º ANO\C#\Trab C# 3º_4º\EduFocus\EduFocus\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Luis\Documents\CTI\2º ANO\Curso Técnico-2º ANO\C#\Trab C# 3º_4º\EduFocus\EduFocus\bin\Debug\System.Text.Json.dll
+C:\Users\Luis\Documents\CTI\2º ANO\Curso Técnico-2º ANO\C#\Trab C# 3º_4º\EduFocus\EduFocus\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Luis\Documents\CTI\2º ANO\Curso Técnico-2º ANO\C#\Trab C# 3º_4º\EduFocus\EduFocus\bin\Debug\System.ValueTuple.dll
+C:\Users\Luis\Documents\CTI\2º ANO\Curso Técnico-2º ANO\C#\Trab C# 3º_4º\EduFocus\EduFocus\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Luis\Documents\CTI\2º ANO\Curso Técnico-2º ANO\C#\Trab C# 3º_4º\EduFocus\EduFocus\bin\Debug\Npgsql.pdb
+C:\Users\Luis\Documents\CTI\2º ANO\Curso Técnico-2º ANO\C#\Trab C# 3º_4º\EduFocus\EduFocus\bin\Debug\Npgsql.xml
+C:\Users\Luis\Documents\CTI\2º ANO\Curso Técnico-2º ANO\C#\Trab C# 3º_4º\EduFocus\EduFocus\bin\Debug\System.Buffers.xml
+C:\Users\Luis\Documents\CTI\2º ANO\Curso Técnico-2º ANO\C#\Trab C# 3º_4º\EduFocus\EduFocus\bin\Debug\System.Memory.xml
+C:\Users\Luis\Documents\CTI\2º ANO\Curso Técnico-2º ANO\C#\Trab C# 3º_4º\EduFocus\EduFocus\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Luis\Documents\CTI\2º ANO\Curso Técnico-2º ANO\C#\Trab C# 3º_4º\EduFocus\EduFocus\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Luis\Documents\CTI\2º ANO\Curso Técnico-2º ANO\C#\Trab C# 3º_4º\EduFocus\EduFocus\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Luis\Documents\CTI\2º ANO\Curso Técnico-2º ANO\C#\Trab C# 3º_4º\EduFocus\EduFocus\bin\Debug\System.Text.Json.xml
+C:\Users\Luis\Documents\CTI\2º ANO\Curso Técnico-2º ANO\C#\Trab C# 3º_4º\EduFocus\EduFocus\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Luis\Documents\CTI\2º ANO\Curso Técnico-2º ANO\C#\Trab C# 3º_4º\EduFocus\EduFocus\bin\Debug\System.ValueTuple.xml
+C:\Users\Luis\Documents\CTI\2º ANO\Curso Técnico-2º ANO\C#\Trab C# 3º_4º\EduFocus\EduFocus\obj\Debug\EduFocus.csprojAssemblyReference.cache
+C:\Users\Luis\Documents\CTI\2º ANO\Curso Técnico-2º ANO\C#\Trab C# 3º_4º\EduFocus\EduFocus\obj\Debug\EduFocus.frmCadastro.resources
+C:\Users\Luis\Documents\CTI\2º ANO\Curso Técnico-2º ANO\C#\Trab C# 3º_4º\EduFocus\EduFocus\obj\Debug\EduFocus.frmPerfil.resources
+C:\Users\Luis\Documents\CTI\2º ANO\Curso Técnico-2º ANO\C#\Trab C# 3º_4º\EduFocus\EduFocus\obj\Debug\EduFocus.frmLogin.resources
+C:\Users\Luis\Documents\CTI\2º ANO\Curso Técnico-2º ANO\C#\Trab C# 3º_4º\EduFocus\EduFocus\obj\Debug\EduFocus.frmMenu.resources
+C:\Users\Luis\Documents\CTI\2º ANO\Curso Técnico-2º ANO\C#\Trab C# 3º_4º\EduFocus\EduFocus\obj\Debug\EduFocus.frmSplash.resources
+C:\Users\Luis\Documents\CTI\2º ANO\Curso Técnico-2º ANO\C#\Trab C# 3º_4º\EduFocus\EduFocus\obj\Debug\EduFocus.Properties.Resources.resources
+C:\Users\Luis\Documents\CTI\2º ANO\Curso Técnico-2º ANO\C#\Trab C# 3º_4º\EduFocus\EduFocus\obj\Debug\EduFocus.csproj.GenerateResource.cache
+C:\Users\Luis\Documents\CTI\2º ANO\Curso Técnico-2º ANO\C#\Trab C# 3º_4º\EduFocus\EduFocus\obj\Debug\EduFocus.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Documents\CTI\2º ANO\Curso Técnico-2º ANO\C#\Trab C# 3º_4º\EduFocus\EduFocus\obj\Debug\EduFocus.csproj.CopyComplete
+C:\Users\Luis\Documents\CTI\2º ANO\Curso Técnico-2º ANO\C#\Trab C# 3º_4º\EduFocus\EduFocus\obj\Debug\EduFocus.exe
+C:\Users\Luis\Documents\CTI\2º ANO\Curso Técnico-2º ANO\C#\Trab C# 3º_4º\EduFocus\EduFocus\obj\Debug\EduFocus.pdb
+C:\Users\Luis\Desktop\Projetos\EduFocus\EduFocus\bin\Debug\EduFocus.exe.config
+C:\Users\Luis\Desktop\Projetos\EduFocus\EduFocus\bin\Debug\EduFocus.exe
+C:\Users\Luis\Desktop\Projetos\EduFocus\EduFocus\bin\Debug\EduFocus.pdb
+C:\Users\Luis\Desktop\Projetos\EduFocus\EduFocus\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Luis\Desktop\Projetos\EduFocus\EduFocus\bin\Debug\Npgsql.dll
+C:\Users\Luis\Desktop\Projetos\EduFocus\EduFocus\bin\Debug\System.Buffers.dll
+C:\Users\Luis\Desktop\Projetos\EduFocus\EduFocus\bin\Debug\System.Memory.dll
+C:\Users\Luis\Desktop\Projetos\EduFocus\EduFocus\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Luis\Desktop\Projetos\EduFocus\EduFocus\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Luis\Desktop\Projetos\EduFocus\EduFocus\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Luis\Desktop\Projetos\EduFocus\EduFocus\bin\Debug\System.Text.Json.dll
+C:\Users\Luis\Desktop\Projetos\EduFocus\EduFocus\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Luis\Desktop\Projetos\EduFocus\EduFocus\bin\Debug\System.ValueTuple.dll
+C:\Users\Luis\Desktop\Projetos\EduFocus\EduFocus\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Luis\Desktop\Projetos\EduFocus\EduFocus\bin\Debug\Npgsql.pdb
+C:\Users\Luis\Desktop\Projetos\EduFocus\EduFocus\bin\Debug\Npgsql.xml
+C:\Users\Luis\Desktop\Projetos\EduFocus\EduFocus\bin\Debug\System.Buffers.xml
+C:\Users\Luis\Desktop\Projetos\EduFocus\EduFocus\bin\Debug\System.Memory.xml
+C:\Users\Luis\Desktop\Projetos\EduFocus\EduFocus\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Luis\Desktop\Projetos\EduFocus\EduFocus\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Luis\Desktop\Projetos\EduFocus\EduFocus\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Luis\Desktop\Projetos\EduFocus\EduFocus\bin\Debug\System.Text.Json.xml
+C:\Users\Luis\Desktop\Projetos\EduFocus\EduFocus\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Luis\Desktop\Projetos\EduFocus\EduFocus\bin\Debug\System.ValueTuple.xml
+C:\Users\Luis\Desktop\Projetos\EduFocus\EduFocus\obj\Debug\EduFocus.csprojAssemblyReference.cache
+C:\Users\Luis\Desktop\Projetos\EduFocus\EduFocus\obj\Debug\EduFocus.frmCadastro.resources
+C:\Users\Luis\Desktop\Projetos\EduFocus\EduFocus\obj\Debug\EduFocus.frmPerfil.resources
+C:\Users\Luis\Desktop\Projetos\EduFocus\EduFocus\obj\Debug\EduFocus.frmLogin.resources
+C:\Users\Luis\Desktop\Projetos\EduFocus\EduFocus\obj\Debug\EduFocus.frmMenu.resources
+C:\Users\Luis\Desktop\Projetos\EduFocus\EduFocus\obj\Debug\EduFocus.frmSplash.resources
+C:\Users\Luis\Desktop\Projetos\EduFocus\EduFocus\obj\Debug\EduFocus.Properties.Resources.resources
+C:\Users\Luis\Desktop\Projetos\EduFocus\EduFocus\obj\Debug\EduFocus.csproj.GenerateResource.cache
+C:\Users\Luis\Desktop\Projetos\EduFocus\EduFocus\obj\Debug\EduFocus.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\Projetos\EduFocus\EduFocus\obj\Debug\EduFocus.csproj.CopyComplete
+C:\Users\Luis\Desktop\Projetos\EduFocus\EduFocus\obj\Debug\EduFocus.exe
+C:\Users\Luis\Desktop\Projetos\EduFocus\EduFocus\obj\Debug\EduFocus.pdb

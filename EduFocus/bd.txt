@@ -1,0 +1,37 @@
+CREATE SEQUENCE tarefa_id_tarefa_seq  
+START 1
+MINVALUE 1
+MAXVALUE 9223372036854775807
+CACHE 1;
+
+CREATE TABLE aluno
+(
+	id_matric INTEGER NOT NULL,
+	nome VARCHAR(50) NOT NULL,
+	usuario VARCHAR(15) NOT NULL,
+	instituicao VARCHAR(50) NOT NULL,
+	email VARCHAR(30) NOT NULL,
+	senha VARCHAR(15) NOT NULL ,
+  	CONSTRAINT id_matric_pkey PRIMARY KEY (id_matric)
+);
+
+CREATE TABLE tarefa
+(
+ 	id_tarefa INT8 NOT NULL DEFAULT NEXTVAL('tarefa_id_tarefa_seq'), 
+ 	disciplina VARCHAR(30)  NOT NULL,
+ 	descricao VARCHAR(30)  NOT NULL,
+	iniciar VARCHAR(10),
+	continuar VARCHAR(10),
+terminar VARCHAR(10),
+	datadeentrega VARCHAR(10) NOT NULL,
+	situacao VARCHAR(10) NOT NULL,
+	ID_matric INTEGER NOT NULL,
+	CONSTRAINT id_tarefa_pkey PRIMARY KEY (id_tarefa)
+ );
+create table situacao
+(
+	id_situacao INTEGER NOT NULL PRIMARY KEY,
+	nome VARCHAR(20) NOT NULL
+);
+
+/*NO C#- Ferramentas- Gerencionador de Pacotes NUGET baixar o npgsql*/
